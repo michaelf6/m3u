@@ -1,3 +1,7 @@
 #EXTM3U
-#EXTINF:-1, 凤凰台
+#EXTINF:-1, 凤凰资讯
 http://113.117.74.27:8081/hls/36/index.m3u8
+#EXTINF:-1 tvg-id="BabyFirst.us" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Kids",BabyFirst
+https://origin1.noisypeak.com/4XhPa5v93P3za6G0cMyV/playlist.m3u8
+#EXTINF:-1 tvg-id="MoonbugKids.uk" tvg-logo="https://i.imgur.com/vZHtxQb.png" group-title="Kids",Moonbug Kids (1080p)
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
