@@ -168,13 +168,13 @@ http://222.175.159.226:808/hls/202366/index.m3u8
 http://50.7.238.114:8278/phoenixinfo_hd/playlist.m3u8?tid=m7f4a830029be&ct=18336&tsum=74f57bddc0725f74838380086dce3e44
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png",翡翠台
 https://sc2022.stream-link.org/tv2306.php?id=h02&checkedby:iptvcat.com
-#EXTINF:-1,CCTV1
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png",CCTV1
 http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv1hd265/57/20191230/index.m3u8?&encrypt=
-#EXTINF:-1,CCTV2
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png",CCTV2
 http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv2hd265/55/20200407/index.m3u8?&encrypt=
-#EXTINF:-1,CCTV3
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png",CCTV3
 http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/cctv3hd/3000/index.m3u8?&encrypt=
-#EXTINF:-1,CCTV4
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png",CCTV4
 http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv4hd/1500/index.m3u8?&encrypt=
 #EXTINF:-1,CCTV4美洲
 http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4meihd/57/index.m3u8?&encrypt=
