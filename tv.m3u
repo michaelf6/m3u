@@ -6,12 +6,11 @@ https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 
 #EXTINF:-1 tvg-id="BabyFirst.us" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Kids",BabyFirst
 https://origin1.noisypeak.com/4XhPa5v93P3za6G0cMyV/playlist.m3u8
-
-#EXTINF:-1,Babytv
+#EXTINF:-1 tvg-id="Babytv" group-title="Kids",Babytv
 http://198.16.100.90:8278/Babytv/playlist.m3u8?tid=MEEE1890535318905353&ct=19225&tsum=416f2cc4b72f4963317f557858cdbd02
-#EXTINF:-1,CBeebies
+#EXTINF:-1tvg-id="Cbeebies" group-title="Kids",CBeebies
 http://198.16.100.90:8278/Cbeebies/playlist.m3u8?tid=ME5E7901951779019517&ct=19225&tsum=03bb5bab7f669081444ce37cda408b8d
-#EXTINF:-1 group-title="Kids",Cbeebies UK
+#EXTINF:-1 tvg-id="Cbeebies" group-title="Kids",Cbeebies UK
 https://dhx-teletubbies-1-gb.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/1luzP3T.png",Kartoon Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8
